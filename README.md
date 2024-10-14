@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash</h1>
+<h1 align="center">Hey 👋, This is Akash</h1>
 <h3 align="center">A passionate tech expert from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akaxh2025&label=Profile%20views&color=0e75b6&style=flat" alt="akaxh2025" /> </p>

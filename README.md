@@ -3,9 +3,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akaxh2025) 
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=akaxh2025)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://scontent.fdac31-2.fna.fbcdn.net/v/t39.30808-6/455792222_980086843894073_3278806071535987917_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeH0LpSwmVfhxZW9L_aA1KSiMtc4Im_RkDUy1zgib9GQNbpcBWJSksaE9zJHdpWAtt8BiLVxZ3YkxV9S4GRGurrv&_nc_ohc=z2POT2GdfRsQ7kNvgH-NxfE&_nc_ht=scontent.fdac31-2.fna&_nc_gid=AP6QRawxEdD3txPKzL0dntO&oh=00_AYCS1XzQhVHJJXbBc8XsH_Kz8wG-I3itOpTFhLB6PH0T0w&oe=671360B8)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -3,11 +3,9 @@
 
 ![](https://scontent.fdac31-2.fna.fbcdn.net/v/t39.30808-6/455792222_980086843894073_3278806071535987917_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeH0LpSwmVfhxZW9L_aA1KSiMtc4Im_RkDUy1zgib9GQNbpcBWJSksaE9zJHdpWAtt8BiLVxZ3YkxV9S4GRGurrv&_nc_ohc=z2POT2GdfRsQ7kNvgH-NxfE&_nc_ht=scontent.fdac31-2.fna&_nc_gid=AP6QRawxEdD3txPKzL0dntO&oh=00_AYCS1XzQhVHJJXbBc8XsH_Kz8wG-I3itOpTFhLB6PH0T0w&oe=671360B8)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>][(https://facebook.com/mh21akash](https://scontent.fdac31-2.fna.fbcdn.net/v/t39.30808-6/455792222_980086843894073_3278806071535987917_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeG5SLV1pJM3s1bBBbLmHXb1Mtc4Im_RkDUy1zgib9GQNV8xcWswav-hfVheZsBvRW6H5tCHJ2mJIWeWnZmrKgrL&_nc_ohc=z2POT2GdfRsQ7kNvgH-NxfE&_nc_zt=23&_nc_ht=scontent.fdac31-2.fna&_nc_gid=ANMcfuBGoJ7VNycjm8iwrIg&oh=00_AYATbZDPRxHoPUEi6zkN9VX_iRnRGKg179mg8FIV3quYnw&oe=671360B8))
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 - 🔭 I’m currently working on [AKASH TECH24](https://www.youtube.com/@akashtech24)
 

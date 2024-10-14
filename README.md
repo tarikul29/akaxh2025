@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, This is Akash</h1>
 <h3 align="center">A passionate tech expert from Bangladesh.</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akaxh2025) 
-
 ![](https://scontent.fdac31-2.fna.fbcdn.net/v/t39.30808-6/455792222_980086843894073_3278806071535987917_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeH0LpSwmVfhxZW9L_aA1KSiMtc4Im_RkDUy1zgib9GQNbpcBWJSksaE9zJHdpWAtt8BiLVxZ3YkxV9S4GRGurrv&_nc_ohc=z2POT2GdfRsQ7kNvgH-NxfE&_nc_ht=scontent.fdac31-2.fna&_nc_gid=AP6QRawxEdD3txPKzL0dntO&oh=00_AYCS1XzQhVHJJXbBc8XsH_Kz8wG-I3itOpTFhLB6PH0T0w&oe=671360B8)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://facebook.com/mh21akash)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH)](https://github.com/anuraghazra/github-readme-stats)
 
